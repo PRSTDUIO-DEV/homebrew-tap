@@ -1,6 +1,6 @@
 cask "aisland" do
-  version "1.2.1"
-  sha256 "036e753185066fe2fe55d1aeeac73ce20376cd6a0422af762b613da0c8951d98"
+  version "1.3.0"
+  sha256 "51d9d060bfb990e0bd12be39806976ff6210e6c07239fc8552d54165c1f7a422"
 
   url "https://github.com/PRSTDUIO-DEV/AIsland/releases/download/v#{version}/AIsland-#{version}.dmg"
   name "AIsland"
