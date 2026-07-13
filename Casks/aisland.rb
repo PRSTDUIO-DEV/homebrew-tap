@@ -4,7 +4,7 @@ cask "aisland" do
 
   url "https://github.com/PRSTDUIO-DEV/AIsland/releases/download/v#{version}/AIsland-#{version}.dmg"
   name "AIsland"
-  desc "Dynamic Island-style usage meter for Claude, GPT (Codex) and Gemini CLIs"
+  desc "Dynamic Island-style usage meter for Claude, Codex and Gemini CLIs"
   homepage "https://github.com/PRSTDUIO-DEV/AIsland"
 
   livecheck do
